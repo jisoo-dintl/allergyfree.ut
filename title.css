@@ -1,0 +1,40 @@
+.title {
+  font-size: 24px;
+  letter-spacing: -0.38px;
+  line-height: 34px;
+  margin-top: 60px;
+}
+
+.title .title__main1 {
+  font-size: 50px;
+  color: #63a9ef;
+  font-weight: 400;
+  margin-bottom: 22px;
+}
+
+.title .title__main2 {
+  font-weight: 200;
+  margin-top: 80px;
+}
+
+.title .title__main3 {
+  font-weight: 400;
+}
+
+.title .title__main4 {
+  font-weight: 200;
+  margin-top: 40px;
+}
+
+.title .title__main5 {
+  font-weight: 200;
+}
+
+.title .title__main6 {
+  font-weight: 400;
+}
+
+.title .title__main7 {
+  font-size: 50px;
+  font-weight: 200;
+}

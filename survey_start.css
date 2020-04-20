@@ -1,0 +1,55 @@
+.title {
+  font-size: 24px;
+  letter-spacing: -0.38px;
+  margin-top: 60px;
+  padding: 30px 40px;
+}
+
+.title .title__main1 {
+  font-size: 40px;
+  font-weight: 300;
+  margin-bottom: 22px;
+}
+
+.title .title__main2 {
+  font-weight: 200;
+  color: #252525;
+  font-size: 20px;
+  margin-top: 80px;
+  margin-bottom: 40px;
+}
+
+.title .title__main3 {
+  font-weight: 200;
+}
+
+.title .title__main4 {
+  font-weight: 400;
+}
+
+.title .title__main5 {
+  margin-top: 80px;
+  font-weight: 400;
+  color: #252525;
+  font-size: 16px;
+}
+
+.title .title__main6 {
+  font-weight: 400;
+  color: #252525;
+  font-size: 16px;
+}
+
+.command button {
+  width: 100%;
+  display: inline-block;
+  padding: 16px;
+  background-color: #63a9ef;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 22px;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+}

@@ -1,0 +1,23 @@
+@import 'reset.css';
+@import 'title.css';
+@import 'cmd.css';
+@import 'task.css';
+@import 'ar_start';
+
+body {
+  background-color: white;
+  padding: 30px 40px;
+  color: #222222;
+  font-family: 'apple sd gothic neo', sans-serif;
+}
+
+body,
+button,
+input,
+textarea {
+  font-family: '애플 SD 산돌고딕 Neo', 'Apple SD Gothic Neo', sans-serif;
+}
+code[class*='language-'],
+pre[class*='language-'] {
+  font-family: '애플 SD 산돌고딕 Neo', 'Apple SD Gothic Neo', sans-serif;
+}
